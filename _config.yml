@@ -17,9 +17,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Kkouts Fondation"
 title_separator          : "-"
-subtitle                 : "Empowering through education & transformation family lives"
+subtitle                 : "Empowering through education & transforming family lives"
 name                     : "Your Name"
-description              : "Empowering through education & transformation family lives"
+description              : "Empowering through education & transforming family lives"
 url                      : https://kkoutsfondation.org
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
