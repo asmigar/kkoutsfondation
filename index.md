@@ -1,5 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
+
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 header:
@@ -11,21 +11,27 @@ header:
       url: "https://www.instagram.com/koutsfoundation_/"
   caption: "[**Where is this?**](https://maps.app.goo.gl/RkqUMxD2NSBv1C2j6)"
 feature_row:
-  - image_path: /assets/workshop.jpg
+  - image_path: /assets/daily_classes.jpeg
     alt: "placeholder image 1"
     title: "Daily Classes"
     excerpt: "Sb krte hai yaar, aake to dekh"
-    url: "https://dhaansudevops.com/register"
-    btn_label: "Register"
+    url: "#"
+    btn_label: "Volunteer"
     btn_class: "btn--inverse"
-  - image_path: /assets/delivery.jpg
+  - image_path: /assets/activities.jpeg
     alt: "placeholder image 2"
     title: "Weekend Co-Curricular Activities"
     excerpt: "Sb krte hai yaar, aake to dekh"
-  - image_path: /assets/security.jpg
+    url: "https://maps.app.goo.gl/RkqUMxD2NSBv1C2j6"
+    btn_label: "Visit Us"
+    btn_class: "btn--inverse"
+  - image_path: /assets/food.jpeg
     alt: "placeholder image 3"
     title: "Food Distribution Drives"
-    excerpt: "Sb krte hai yaar, aake to dekh"
+    excerpt: "Sb krte hai yaar, aake to dekhi"
+    url: "assets/donate.jpeg"
+    btn_label: "Donate"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row %}
