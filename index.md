@@ -24,7 +24,7 @@ feature_row:
     excerpt: "Single-click deployments and sometimes no clicks. Making sure no code goes to production without thorough testing and sign off from the watchdogs."
   - image_path: /assets/security.jpg
     alt: "placeholder image 3"
-    title: "Food Distribution`"
+    title: "Food Distribution Drives"
     excerpt: "Security from start. Our shift-left approach to security leads to no vulnerable code going into codebase. Security measures are implemented during the entire development life-cycle."
 ---
 
