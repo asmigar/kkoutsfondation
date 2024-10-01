@@ -5,11 +5,11 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/view.jpg
+  overlay_image: /assets/banner.png
   actions:
     - label: "FOLLOW US"
       url: "https://www.instagram.com/koutsfoundation_/"
-  caption: "[**Where is this?**](https://maps.app.goo.gl/TNZJ4sodRa81MsL99)"
+  caption: "[**Where is this?**](https://maps.app.goo.gl/RkqUMxD2NSBv1C2j6)"
 feature_row:
   - image_path: /assets/workshop.jpg
     alt: "placeholder image 1"
