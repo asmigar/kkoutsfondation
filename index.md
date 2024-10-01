@@ -13,18 +13,18 @@ header:
 feature_row:
   - image_path: /assets/workshop.jpg
     alt: "placeholder image 1"
-    title: "Interactive Workshops"
+    title: "Daily Classes"
     excerpt: "Comprehensive DevOps and Cloud courses where we delve into the depths of essential tools and concepts, ensuring a thorough understanding for our attendees."
     url: "https://dhaansudevops.com/register"
     btn_label: "Register"
     btn_class: "btn--inverse"
   - image_path: /assets/delivery.jpg
     alt: "placeholder image 2"
-    title: "Robust Delivery"
+    title: "Weekend Co-Curricular Activities"
     excerpt: "Single-click deployments and sometimes no clicks. Making sure no code goes to production without thorough testing and sign off from the watchdogs."
   - image_path: /assets/security.jpg
     alt: "placeholder image 3"
-    title: "Day 0 Security"
+    title: "Food Distribution`"
     excerpt: "Security from start. Our shift-left approach to security leads to no vulnerable code going into codebase. Security measures are implemented during the entire development life-cycle."
 ---
 
