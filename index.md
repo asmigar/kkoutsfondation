@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/view.jpg
   actions:
     - label: "FOLLOW US"
-      url: "https://www.linkedin.com/company/asmigar"
+      url: "https://www.instagram.com/koutsfoundation_/"
   caption: "[**Where is this?**](https://maps.app.goo.gl/TNZJ4sodRa81MsL99)"
 feature_row:
   - image_path: /assets/workshop.jpg
