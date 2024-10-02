@@ -1,3 +1,7 @@
 main:
   - title: "Gallery"
     url: /gallery
+  - title: "Volunteer"
+    url: /volunteer
+  - title: "Donate"
+    url: /donate

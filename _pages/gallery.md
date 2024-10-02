@@ -3,14 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 permalink: /gallery/
+excerpt: "To see more of us. Follow us." 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/banner.png
   actions:	
-    - label: "Follow on Insta"
+    - label: "Instagram"
       url: "https://www.instagram.com/koutsfoundation_"
-    - label: "See our YouTube"
+    - label: "YouTube"
       url: "https://www.youtube.com/@kkoutsfoundation"
 
   caption: "[**Where is this?**](https://maps.app.goo.gl/RkqUMxD2NSBv1C2j6)"
