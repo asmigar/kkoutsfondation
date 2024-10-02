@@ -31,7 +31,7 @@ feature_row:
     alt: "placeholder image 3"
     title: "Nourishing Minds and Bodies"
     excerpt: "Through regular food distribution drives, we provide nutritious meals to students and their families. By addressing food insecurity, we ensure that children remain focused and healthy, ready to learn and grow. Our initiative aims to support both their education and overall well-being, creating a foundation for brighter futures and stronger communities."
-    url: "assets/donate.jpeg"
+    url: "/donate"
     btn_label: "Donate"
     btn_class: "btn--inverse"
 ---
