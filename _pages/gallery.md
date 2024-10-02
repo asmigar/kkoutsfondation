@@ -8,12 +8,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/banner.png
   actions:	
-    - label: "Instagram"
+    - label: "Follow on Insta"
       url: "https://www.instagram.com/koutsfoundation_"
-    - label: "YouTube"
+    - label: "See our YouTube"
       url: "https://www.youtube.com/@kkoutsfoundation"
-    - label: "LinkedIn"
-      url: "https://www.linkedin.com/company/kkouts-foundation"
 
   caption: "[**Where is this?**](https://maps.app.goo.gl/RkqUMxD2NSBv1C2j6)"
 gallery:
@@ -33,8 +31,14 @@ gallery:
     image_path: /assets/gallery/image_4.jpg
     alt: "placeholder image 4."
     title: "Showcase your work."
-
-
+  - url: /assets/gallery/image_5.jpg
+    image_path: /assets/gallery/image_5.jpg
+    alt: "placeholder image 4."
+    title: "Studying under the shade."
+  - url: /assets/gallery/image_6.jpg
+    image_path: /assets/gallery/image_6.jpg
+    alt: "placeholder image 4."
+    title: "The only guidance they have is us."
 ---
 
 {% include gallery caption="Check our Insta to see more of us." %}
