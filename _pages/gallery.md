@@ -20,19 +20,19 @@ gallery:
   - url: /assets/gallery/image_1.jpg
     image_path: /assets/gallery/image_1.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Gomti nagar slum."
   - url: /assets/gallery/image_2.jpg
     image_path: /assets/gallery/image_2.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "Passionate to learn."
   - url: /assets/gallery/image_3.jpg
     image_path: /assets/gallery/image_3.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    title: "Attention to detail."
   - url: /assets/gallery/image_4.jpg
     image_path: /assets/gallery/image_4.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    alt: "placeholder image 4."
+    title: "Showcase your work."
 
 
 ---
