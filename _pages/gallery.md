@@ -42,5 +42,5 @@ gallery:
     title: "The only guidance they have is us."
 ---
 
-{% include gallery caption="Check our Insta to see more of us." %}
+{% include gallery %}
 
