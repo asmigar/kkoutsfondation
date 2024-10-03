@@ -9,8 +9,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/banner.png
   actions:	
-    - label: "Donate Now"
+    - label: " Donate Now"
       url: "/assets/donate.jpeg"
+      icon: "fa-solid fa-circle-dollar-to-slot"
   caption: "[**Where is this?**](https://maps.app.goo.gl/RkqUMxD2NSBv1C2j6)"
 ---
 Your generosity can transform lives! At Kkouts Foundation, every donation helps provide free education, co-curricular activities, and nutritious meals to underprivileged children. Together, we can empower the next generation to break the cycle of poverty and build a brighter future.

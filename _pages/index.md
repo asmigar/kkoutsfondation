@@ -9,8 +9,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/banner.png
   actions:
-    - label: "Support Us"
+    - label: " Support Us"
       url: "/donate"
+      icon: "fa-solid fa-hands-holding-child"
   caption: "[**Where is this?**](https://maps.app.goo.gl/RkqUMxD2NSBv1C2j6)"
 feature_row:
   - image_path: /assets/daily_classes.jpeg

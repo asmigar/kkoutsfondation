@@ -9,11 +9,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/banner.png
   actions:	
-    - label: "DM on Instagram"
+    - label: " DM on Instagram"
       url: "https://www.instagram.com/koutsfoundation_"
-    - label: "DM on LinkedIn"
+      icon: "fa-solid fa-message" 
+    - label: " DM on LinkedIn"
       url: "https://www.linkedin.com/company/kkouts-foundation"
-
+      icon: "fa-solid fa-message"
   caption: "[**Where is this?**](https://maps.app.goo.gl/RkqUMxD2NSBv1C2j6)"
 ---
 At Kkouts Foundation, we believe that every child deserves the opportunity to learn, grow, and thrive. But we can’t do it alone – we need compassionate and dedicated individuals like you to make a real impact. By joining us as a volunteer, you’ll become part of a community that is committed to empowering underprivileged children through education and support.
