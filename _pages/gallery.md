@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 permalink: /gallery/
-excerpt: "To see more of us. Follow us." 
+excerpt: "See more of us. Follow us." 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
