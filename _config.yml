@@ -103,7 +103,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"
+  provider               : "google-gtag"
   google:
     tracking_id          : "G-SX1H3MDLMZ"
     anonymize_ip         : false
